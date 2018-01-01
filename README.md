@@ -3,6 +3,8 @@
 - I intend to use it as a big bookmark;
 - It will be always in english, so I keep the language fresh in my brain;
 
+## Based on [turicas repo](https://github.com/turicas/braindump)
+
 ## How to Structure Files
 
 Just create a markdown file about the subject and put information on it.

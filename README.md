@@ -1,9 +1,7 @@
 # braindump
-- It's based on turicas idea that I love - Thanks @turicas
+- It's based on turicas idea that I love - Thanks [turicas](https://github.com/turicas/braindumb)
 - I intend to use it as a big bookmark;
 - It will be always in english, so I keep the language fresh in my brain;
-
-## Based on [turicas repo](https://github.com/turicas/braindump)
 
 ## How to Structure Files
 

@@ -1,5 +1,5 @@
 # braindump
-- It's based on turicas idea that I love - Thanks [turicas](https://github.com/turicas/braindumb)
+- It's based on turicas idea that I love - Thanks [turicas](https://github.com/turicas/braindump)
 - I intend to use it as a big bookmark;
 - It will be always in english, so I keep the language fresh in my brain;
 

@@ -59,4 +59,5 @@
 
 - [HTTP 1.1 just got a major update](http://evertpot.com/http-11-updated) (June 2014)
 
-## This is a Git Test for branching 
+#Deep Learning 
+- [Books and classes](https://github.com/guillaume-chevalier/Awesome-Deep-Learning-Resources)

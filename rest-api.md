@@ -16,7 +16,7 @@
   Design](http://blog.clevertech.biz/post/successful-rest-api-design)
 - [Best Practices for Designing a Pragmatic RESTful
   API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
-
+- [GraphQL Article](https://webapplog.com/graphql/)
 
 ## Book
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)

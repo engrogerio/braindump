@@ -9,3 +9,5 @@ https://www.datasciencecentral.com/profiles/blogs/the-10-statistical-techniques-
 https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-more-149d341fc53e
 
 https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials
+
+https://blog.datasciencedojo.com/machine-learning-algorithms/

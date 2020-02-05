@@ -2,7 +2,7 @@
 
 ## Tutorials/Cookbooks
 
-- [Complete eexample in Flask] (https://kite.com/blog/python/flask-restful-api-tutorial)
+- [Complete eexample in Flask](https://kite.com/blog/python/flask-restful-api-tutorial)
 - [REST API Tutorial](http://www.restapitutorial.com/)
 - [REST Cookbook](http://restcookbook.com/Basics/hateoas/)
 

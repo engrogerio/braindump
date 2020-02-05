@@ -18,6 +18,8 @@
 - [Best Practices for Designing a Pragmatic RESTful
   API](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api)
 - [GraphQL Article](https://webapplog.com/graphql/)
+- [Flask basics](https://riptutorial.com/flask/)
+
 
 ## Book
 - [REST in Practice](http://shop.oreilly.com/product/9780596805838.do)

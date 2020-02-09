@@ -30,7 +30,7 @@
 - [Intro to RESTful JSON APIs](https://www.youtube.com/watch?v=jApGMm5SQzs)
 - [Beautiful REST & JSON APIs](https://www.youtube.com/watch?v=ItXLn7diNAk)
 - [REST+JSON API Design](https://www.youtube.com/watch?v=hdSrT4yjS1g)
-
+- [Flask best architectures](https://www.youtube.com/watch?v=i63yIVgb-4Q)
 
 ## Slides
 

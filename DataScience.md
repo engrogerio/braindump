@@ -1,5 +1,7 @@
 # Data Science & Machine Learning
 
+[Basics on Neural Networks - Pycon2020](https://www.youtube.com/watch?v=gGu3pPC_fBM&feature=youtu.be)
+
 https://sites.google.com/site/ufcregis/home/data-science-machine-learning
 
 https://www.dataquest.io/blog/jupyter-notebook-tutorial/
@@ -11,3 +13,4 @@ https://medium.com/jbennetcodes/how-to-rewrite-your-sql-queries-in-pandas-and-mo
 https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials
 
 https://blog.datasciencedojo.com/machine-learning-algorithms/
+

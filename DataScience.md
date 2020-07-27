@@ -14,3 +14,4 @@ https://www.datasciencecentral.com/profiles/blogs/15-deep-learning-tutorials
 
 https://blog.datasciencedojo.com/machine-learning-algorithms/
 
+[Tensorflow to calculate stocks prices](https://www.thepythoncode.com/article/stock-price-prediction-in-python-using-tensorflow-2-and-keras)

@@ -62,4 +62,5 @@
 
 - [HTTP 1.1 just got a major update](http://evertpot.com/http-11-updated) (June 2014)
 
-
+## Do not mix sync and async routines
+https://write.as/rafaelcaricio/why-not-just-use-async-python-for-this-api

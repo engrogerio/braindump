@@ -5,7 +5,7 @@
 - [Complete eexample in Flask](https://kite.com/blog/python/flask-restful-api-tutorial)
 - [REST API Tutorial](http://www.restapitutorial.com/)
 - [REST Cookbook](http://restcookbook.com/Basics/hateoas/)
-
+- [Easy fastApi with postgres](https://www.tutlinks.com/fastapi-with-postgresql-crud-async/)
 - [Learn REST: A Tutorial](http://rest.elkstein.org/)
 - [Creating an Efficient REST API with
   HTTP](http://mark-kirby.co.uk/2013/creating-a-true-rest-api/)
